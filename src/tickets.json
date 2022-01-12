@@ -1,0 +1,70 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "fromCity": "Новосибирск",
+      "fromTime": "10:20",
+      "fromDate": "1.01",
+      "toCity": "Красноярск",
+      "toTime": "14:20",
+      "toDate": "1.10",
+      "transfers": 1,
+      "price": 20000
+    },
+    {
+      "id": 2,
+      "fromCity": "Чита",
+      "fromTime": "5:20",
+      "fromDate": "5.01",
+      "toCity": "Лондон",
+      "toTime": "12:35",
+      "toDate": "5.01",
+      "transfers": 2,
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "fromCity": "Горно-Алтайск",
+      "fromTime": "15:50",
+      "fromDate": "10.01",
+      "toCity": "Йошкар-Ола",
+      "toTime": "01:20",
+      "toDate": "11.01",
+      "transfers": 0,
+      "price": 10000
+    },
+    {
+      "id": 4,
+      "fromCity": "Пенза",
+      "fromTime": "22:00",
+      "fromDate": "12.01",
+      "toCity": "Будапешт",
+      "toTime": "4:35",
+      "toDate": "13.01",
+      "transfers": 3,
+      "price": 14000
+    },
+    {
+      "id": 5,
+      "fromCity": "Варшава",
+      "fromTime": "7:40",
+      "fromDate": "15.01",
+      "toCity": "Омск",
+      "toTime": "12:20",
+      "toDate": "15.01",
+      "transfers": 0,
+      "price": 9000
+    },
+    {
+      "id": 6,
+      "fromCity": "Сочи",
+      "fromTime": "16:55",
+      "fromDate": "15.01",
+      "toCity": "Москва",
+      "toTime": "19:55",
+      "toDate": "14.01",
+      "transfers": 1,
+      "price": 7800
+    }
+  ]
+}
